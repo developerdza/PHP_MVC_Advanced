@@ -1,0 +1,17 @@
+{
+    "name": "saad/phpmvcadvanced",
+    "authors": [
+        {
+            "name": "saad mohammed",
+            "email": "saadTech2000@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
